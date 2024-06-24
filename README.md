@@ -1,2 +1,2 @@
-# InferenciaEstadistica
-InferenciaEstadistica
+# Inferencia Estadistica
+
