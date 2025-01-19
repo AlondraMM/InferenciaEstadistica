@@ -1,2 +1,2 @@
-# Inferencia Estadistica
-
+# Inferencia Estadística
+La estadística tiene como objetivo principal inferir características de una población a partir de una muestra, ya sea mediante estimaciones de parámetros o pruebas de hipótesis. Los métodos estadísticos se dividen en paramétricos, que asumen una distribución conocida salvo por ciertos parámetros, y no paramétricos, que no requieren especificar una distribución. Estos últimos son útiles para datos en escalas nominales u ordinales, o cuando los supuestos paramétricos no se cumplen. 
